@@ -3,7 +3,7 @@
 Este projeto utiliza **matplotlib** e **numpy** para criar gráficos de **barras** e **pizza** a partir de uma lista de nomes e idades.
 
 ## Pré-requisitos
-- Python 3.x instalado
+- Python 3.13.3 instalado
 - Bibliotecas necessárias:
   ```bash
   pip install matplotlib numpy
