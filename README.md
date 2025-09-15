@@ -9,7 +9,7 @@ Este projeto utiliza **matplotlib** e **numpy** para criar gráficos de **barras
   pip install matplotlib numpy
 # Como rodar:
 1. Clone este repositório: git clone https://github.com/dulce-mari4/Plotagem-idade.git
-2. Execute o arquivo python: python plotagem.py
+2. Execute o arquivo python: plotagem.py
 # Saída:
 O programa gera dois gráficos lado a lado:
 - Barras: mostra as idades por pessoa.
